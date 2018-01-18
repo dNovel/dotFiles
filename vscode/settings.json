@@ -1,0 +1,39 @@
+{
+    // Application part
+    "update.channel": "default",
+    // Workpench part
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "none",
+    // Window part
+    "window.menuBarVisibility": "toggle",
+    // Editor part
+    "editor.fontFamily": "'Ubuntu Mono','Overpass Mono', 'Courier New', monospace",
+    "editor.fontWeight": "normal",
+    "editor.fontLigatures": false,
+    "editor.fontSize": 18,
+    "editor.tabSize": 4,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "solid",
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.lineNumbers": "on",
+    "editor.minimap.showSlider": "always",
+    // File part
+    "files.autoSave": "afterDelay",
+    "files.encoding": "utf8",
+    "files.eol": "\n",
+    "files.trimTrailingWhitespace": true,
+    "workbench.colorTheme": "Material Theme",
+    "materialTheme.cache.workbench.settings": {
+        "themeColours": "Palenight",
+        "accentPrevious": "Pink"
+    },
+    "workbench.colorCustomizations": {},
+    // Terminal part
+    "terminal.integrated.fontSize": 18,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.fontFamily": "'Ubuntu Mono'",
+    "terminal.integrated.rightClickCopyPaste": true,
+}
